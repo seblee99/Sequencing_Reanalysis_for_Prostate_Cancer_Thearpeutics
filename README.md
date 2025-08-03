@@ -104,7 +104,7 @@ and hg19 gtf file was obtained from
 ## Overview of the ChIP-seq and ATAC-seq Analysis Pipeline
 
 ![ChIP-seq and ATAC-seq Analysis
-Pipeline](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/chipatacpipeline.png)
+Pipeline](images/chipatacpipeline.png)
 <!-- ![ChIP-seq and ATAC-seq Analysis Pipeline](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/chipatacpipeline.png) -->
 
 ## ChIP-seq and ATAC-seq Analysis Specifications
@@ -426,7 +426,7 @@ plotHeatmap -m simple1matrix.gz -o simple1heatmap.png --hclust 2 --colorMap Blue
 ## Overview of RNA-seq Pipeline
 
 ![RNA-seq Analysis
-Pipeline](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/rnapipeline.png)
+Pipeline](images/rnapipeline.png)
 <!-- ![RNA-seq Analysis Pipeline](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/rnapipeline.png) -->
 
 ## RNA-seq Analysis Specifications
@@ -459,11 +459,11 @@ STAR --genomeDir /home/slee_bmeg22/project/data/rna/index --runThreadN 15 --read
 Here are the results of STAR alignment:
 
 ![STAR Alignment of
-SRR7140781](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/SRR7140781.png)
+SRR7140781](images/SRR7140781.png)
 <!-- ![STAR Alignment of SRR7140781](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/SRR7140781.png) -->
 
 ![STAR Alignment of
-SRR7140783](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/SRR7140783.png)
+SRR7140783](images/SRR7140783.png)
 <!-- ![STAR Alignment of SRR7140783](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/SRR7140783.png) -->
 
 ### 2. RSeQC and Calculation of Normalized Counts per Million
@@ -507,13 +507,13 @@ Your installed version is: 2.23
 Original:
 
 ![FOXA1 Heatmap From the
-Study](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/foxa1heatmapog.png)
+Study](images/foxa1heatmapog.png)
 <!-- ![FOXA1 Heatmap From the Study](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/foxa1heatmapog.png) -->
 
 Our version:
 
 ![FOXA1
-Heatmap](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/foxa1heatmap.png)
+Heatmap](images/foxa1heatmap.png)
 <!-- ![FOXA1 Heatmap](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/foxa1heatmap.png) -->
 
 Looking at the heatmap compared to the one from the article, we can see
@@ -532,10 +532,10 @@ you move down. Similar to the image provided in the article, the GSK(48
 h) is shorter and less dense than the Veh.
 
 ![FOXA1
-IGV](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/foxa1igv1.png)
+IGV](images/foxa1igv1.png)
 <!-- ![FOXA1 IGV](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/foxa1igv1.png) -->
 ![FoxA1 IGV
-cont.](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/foxa1igv2.png)
+cont.](images/foxa1igv2.png)
 <!-- ![FoxA1 IGV cont.](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/foxa1igv2.png) -->
 
 Viewing the bigwig files in IGV, we can see some locations on the Veh
@@ -548,7 +548,7 @@ Due to the error mentioned above, the heatmap could not be generated for
 ATAC-seq.
 
 ![ATAC-seq
-IGV](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/atacigv.png)
+IGV](images/atacigv.png)
 <!-- ![ATAC-seq IGV](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/atacigv.png) -->
 
 Because the bigwig and callPeak files were not produced with the
@@ -566,7 +566,7 @@ compared to the vehicle sample, which is similar to the original heatmap
 shown below.
 
 ![ATAC-seq Heatmap from the
-Study](/Users/sebastianlee/Desktop/YEAR%204%20TERM%202/BMEG%20400E/Assignments/final_project/images/atacheatmapog.png)
+Study](images/atacheatmapog.png)
 <!-- ![ATAC-seq Heatmap from the Study](https://github.com/seblee12/BMEG400EAssignments/blob/main/final_project/images/atacheatmapog.png) -->
 
 ## RNA-seq Analysis
